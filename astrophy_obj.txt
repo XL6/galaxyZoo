@@ -1,3 +1,5 @@
+Real World Multicore Embedded Systems
+Linux Embedded Development
 spiral
 ellipitcal
 bar 
